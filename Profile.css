@@ -71,7 +71,7 @@ nav ul li a:hover {
 }
 
 .skill {
-    background-color: #f4f4f4;
+    background-color: green;
     border: 1px solid #ddd;
     border-radius: 5px;
     padding: 10px;
@@ -91,8 +91,8 @@ nav ul li a:hover {
 
 .project-card {
     background-color: #f4f4f4;
-    border: 1px solid #ddd;
-    border-radius: 5px;
+    border: 1px solid green;
+    border-radius: 10px;
     width: 200px;
     margin: 10px;
     text-align: center;
@@ -100,7 +100,7 @@ nav ul li a:hover {
 }
 
 .project-card:hover {
-    transform: scale(1.05);
+    transform: scale(1.5);
 }
 
 .project-card img {
