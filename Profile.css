@@ -62,6 +62,10 @@ nav ul li a:hover {
     height: 250px;
 }
 
+.profile-img:hover {
+    transform: scale(1.50);
+}
+
 /* Skills section */
 #skills {
     padding: 20px;
