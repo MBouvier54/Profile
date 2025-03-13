@@ -18,7 +18,7 @@ header {
 /* Header styling */
 
 .profile-img {
-  width: 200px;
+  width: 300px;
   height: auto;
 }
 header {
@@ -53,10 +53,10 @@ nav ul li a:hover {
     padding: 20px;
 }
 
-.profile-pic {
+.profile-img {
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
 }
 
 /* Skills section */
