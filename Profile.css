@@ -50,7 +50,10 @@ nav ul li a:hover {
 /* About Me section */
 #about {
     text-align: center;
-    padding: 20px;
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+    padding-left: 150px;
 }
 
 .profile-img {
@@ -100,7 +103,7 @@ nav ul li a:hover {
 }
 
 .project-card:hover {
-    transform: scale(1.5);
+    transform: scale(1.50);
 }
 
 .project-card img {
