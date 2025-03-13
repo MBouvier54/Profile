@@ -39,7 +39,7 @@ nav ul li {
 
 nav ul li a {
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
     transition: color 0.3s;
 }
 
@@ -51,9 +51,9 @@ nav ul li a:hover {
 #about {
     text-align: center;
     padding-top: 50px;
-    padding-right: 150px;
+    padding-right: 50px;
     padding-bottom: 50px;
-    padding-left: 150px;
+    padding-left: 50px;
 }
 
 .profile-img {
@@ -79,7 +79,7 @@ nav ul li a:hover {
 
 .skill {
     background-color: green;
-    border: 1px solid #ddd;
+    border: 5px solid #ddd;
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
